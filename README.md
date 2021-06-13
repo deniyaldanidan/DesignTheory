@@ -5,4 +5,4 @@
 [Tutorial 1]()
 
 Points
-- 
+- Point 1 
